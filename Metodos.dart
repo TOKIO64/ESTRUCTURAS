@@ -13,7 +13,7 @@ Container(
 
 padding : EdgeInsets.only(),
 
-Row(
+body : Row(
 
     children : <Widget> [
 
