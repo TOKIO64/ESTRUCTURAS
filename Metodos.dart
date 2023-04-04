@@ -50,6 +50,10 @@ FractionallySizedBox(
 
 ),
 
+final pantallaWidth = MediaQuery.of(context).size.width ;           // obtener el ancho de la pantalla
+
+final pantallaHeight = MediaQuery.of(context).size.Height ;         // obtener la antura de la pantalla
+
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 IconButtom(
