@@ -79,5 +79,5 @@ SingleChildScrollView(
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
     
-    
+overflow : TextOverflow.ellipsis ,          // en el caso de que se produsca un desbordamiento añade ( ... )
     
