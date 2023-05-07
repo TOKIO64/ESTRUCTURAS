@@ -1,4 +1,4 @@
-﻿
+
 import 'package:flutter/material.dart' ;
 
 void main(){
@@ -13,7 +13,7 @@ void main(){
 
 class Aplicacion extends StatelessWidget {
 
-	const Aplicacion({super.key});
+	const Aplicacion({Key? key}) : super(key: key);
 
 	@override
 
@@ -53,7 +53,7 @@ class _PageinitState extends State<Pageinit> {
 
 				children : <Widget> [
 
-					// 
+					// codigo
 
 				],
 
