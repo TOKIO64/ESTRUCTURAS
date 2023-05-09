@@ -103,3 +103,4 @@ overflow : TextOverflow.ellipsis ,          // en el caso de que se produsca un 
 
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
+flutter build linux --release --no-tree-shake-icons
