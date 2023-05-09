@@ -33,7 +33,7 @@ class Aplicacion extends StatelessWidget {
 
 class Pageinit extends StatefulWidget {
 
-	const Pageinit({super.key});
+	const Pageinit({Key? key}) : super(key: key);
 
 	@override
 
