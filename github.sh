@@ -12,3 +12,5 @@
 	# github > ssh key > key micro
 
 	git remote set-url origin git@github.com:nombre_usuario/nombre_repositorio.git
+
+adfaf
